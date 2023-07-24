@@ -4,10 +4,10 @@
 >
 >*At the crack of dawn, Higher Dawn's true might surfaced. He, a demigod, gained supreme power, getting high® with the rising sun. His swift stroke, a force in itself, reigned supreme in the world of mortals, fitting for both a king and a master swordsman.*
 
-<a href="https://github.com/heartbeat-exchange"><img src="https://github.com/higherdawn/higherdawn/assets/137513898/927785dc-dfe7-4b13-85b1-51c5e152b4cb" alt="BEAT" width="169" /></a>
-
 <a href="https://github.com/heartbeat-exchange">
   
 ![image](https://github.com/higherdawn/higherdawn/assets/137513898/ee5ff44a-8c17-4346-811f-0580f8a19d09)
 
 </a>
+
+<a href="https://github.com/heartbeat-exchange"><img src="https://github.com/higherdawn/higherdawn/assets/137513898/927785dc-dfe7-4b13-85b1-51c5e152b4cb" alt="BEAT" width="169" /></a>
