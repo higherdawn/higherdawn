@@ -11,5 +11,3 @@ https://twitter.com/heartbeat_fi
 ![image](https://github.com/higherdawn/higherdawn/assets/137513898/ee5ff44a-8c17-4346-811f-0580f8a19d09)
 
 </a>
-
-<a href="https://github.com/heartbeat-exchange"><img src="https://github.com/higherdawn/higherdawn/assets/137513898/927785dc-dfe7-4b13-85b1-51c5e152b4cb" alt="BEAT" width="169" /></a>
